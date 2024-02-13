@@ -23,8 +23,8 @@
 
 @media (max-width: 700px) {
     .main {
-        width: 100vw;
-        height: 100vh;
+        max-width: 200vw;
+        max-height: 200vh;
     }
     .fireball {
         width: 60%;
